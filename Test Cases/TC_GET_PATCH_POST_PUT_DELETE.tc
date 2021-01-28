@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_GET_PATCH_POST_PUT_DELETE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90b81093-1dd2-407a-94a0-ce95cc4a172c</testCaseGuid>
+</TestCaseEntity>
